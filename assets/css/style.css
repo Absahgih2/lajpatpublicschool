@@ -859,8 +859,8 @@ tbody td:first-child { font-weight: 700; color: var(--ink); }
   :root { --header-h: 72px; }
   .hero { min-height: auto; padding-top: calc(var(--header-h) + 2.4rem); }
   .brand__name { font-size: .98rem; }
-  .brand__logo { width: 44px; height: 44px; }
-  .header.is-stuck .brand__logo { width: 44px; height: 44px; transition: none; }
+  .brand__logo { width: 56px; height: 56px; }
+  .header.is-stuck .brand__logo { width: 56px; height: 56px; transition: none; }
   .stats { margin-top: -2.4rem; }
   .stats__grid { grid-template-columns: 1fr 1fr; border-radius: var(--radius-l); }
   .form-grid { grid-template-columns: 1fr; }
