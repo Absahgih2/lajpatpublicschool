@@ -1,0 +1,16 @@
+# robots.txt — Lajpat Public School, Golmuri, Jamshedpur, Jharkhand
+
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap
+Sitemap: https://www.lajpatpublicschool.in/sitemap.xml

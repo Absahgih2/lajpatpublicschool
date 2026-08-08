@@ -1,0 +1,23 @@
+{
+  "name": "Lajpat Public School, Jamshedpur",
+  "short_name": "LPS Jamshedpur",
+  "description": "Value-based holistic education in Golmuri, Jamshedpur, Jharkhand.",
+  "lang": "en-IN",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b1033",
+  "theme_color": "#0b1033",
+  "categories": ["education"],
+  "icons": [
+    { "src": "assets/img/logo.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/img/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/img/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Admissions", "url": "/admissions.html" },
+    { "name": "Contact", "url": "/contact.html" },
+    { "name": "Academics", "url": "/academics.html" }
+  ]
+}
